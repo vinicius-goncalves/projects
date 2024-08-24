@@ -1,5 +1,5 @@
 # About
-In this repository, there will be a lot of things useful about my projects as projects grouped by technologies, links about me and more.
+In this repository, there will be a lot of things useful about my project - as projects grouped by technologies, links about me and more.
 
 ## 🔢 Sections
 Where do you want to go?
