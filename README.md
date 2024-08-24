@@ -5,8 +5,8 @@ In this repository, there will be a lot of things useful about my projects as pr
 Where do you want to go?
 
 - [Projects](#projects)
-  - [React](#react-projects)
-  - [Java](#java-projects)
+  - [React Projects](#react-projects)
+  - [Java Projects](#java-projects)
 
 
 <div id="projects">
@@ -23,12 +23,13 @@ Where do you want to go?
   | :---------        | :---------- | :---------- |
   | react__weather-app | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
   | react__form-validation | **-** | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
+  | react__auth-states | **-** | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
   
 </div>
 
 ***
 
-<div id="java">
+<div id="java-projects">
   
   ![][java]
 
@@ -46,8 +47,11 @@ Where do you want to go?
   [repo__react__weather-app]: <https://github.com/vinicius-goncalves/react__weather-app> "repo__react__weather-app"
   [website__weather-app]: <https://weather.vinicius-goncalves.com> "website__weather-app"
   
-  [repo__react__form-validation]: <https://github.com/vinicius-goncalves/react__form-validation> "react__form-validation"
+  [repo__react__form-validation]: <https://github.com/vinicius-goncalves/react__form-validation> "repo__react__form-validation"
   [website__form-validation]: <> "website__form-validation"
+  
+  [repo__react__auth-states]: <https://github.com/vinicius-goncalves/react__auth-states> "repo__react__auth-states"
+  [website__auth-states]: <> "website__auth-states"
   
 [comment]: # (react-projects)
   
