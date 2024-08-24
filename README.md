@@ -6,47 +6,66 @@ Where do you want to go?
 
 - [Projects](#projects)
   - [React](#react-projects)
+  - [Java](#java-projects)
 
 
 <div id="projects">
 
 ## Projects
 
+***
+
 <div id="react-projects">
   
   ![][react]
 
   | 📂 name           | 🔗 website | 🚀 repository |
-  | :---------:        | :----------: | :----------: |
-  | react__weather-app | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo_react__weather-app]
-  | react__form-validation | **-** | [github.com/vinicius-goncalves/react__form-validation][repo_react__form-validation]
+  | :---------        | :---------- | :---------- |
+  | react__weather-app | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
+  | react__form-validation | **-** | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
+  
+</div>
+
+***
+
+<div id="java">
+  
+  ![][java]
+
+  | 📂 name           | 🔗 website | 🚀 repository |
+  | :---------        | :---------- | :---------- |
+  | vg-sounds | **-** | [github.com/vinicius-goncalves/vg-sound][repo__vg-sounds]
   
 </div>
   
 </div>
 
 [comment]: # (reference-paths)
-
-  [comment]: # (react-projects)
+[comment]: # (react-projects)
   
-  [repo_react__weather-app]: <https://github.com/vinicius-goncalves/react__weather-app> "repo_react__weather-app"
+  [repo__react__weather-app]: <https://github.com/vinicius-goncalves/react__weather-app> "repo__react__weather-app"
   [website__weather-app]: <https://weather.vinicius-goncalves.com> "website__weather-app"
   
-  [repo_react__form-validation]: <https://github.com/vinicius-goncalves/react__form-validation> "react__form-validation"
+  [repo__react__form-validation]: <https://github.com/vinicius-goncalves/react__form-validation> "react__form-validation"
   [website__form-validation]: <> "website__form-validation"
   
-  [comment]: # (react-projects)
+[comment]: # (react-projects)
+  
+[comment]: # (java-projects)
 
+  [repo__vg-sounds]: <https://github.com/vinicius-goncalves/vg-sounds> "repo__vg-sounds"
+  
+[comment]: # (java-projects)
 [comment]: # (reference-paths)
 
 [comment]: # (badge-references)
-
 [comment]: # (client-side-badges)
 [javascript]: <https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E> "JavaScript"
 [html]: <https://img.shields.io/badge/HTML%205-323330?style=for-the-badge&logo=html5> "HTML"
 [css]: <https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=007ACC> "CSS"
 [markdown]: <https://img.shields.io/badge/Markdown-323330?style=for-the-badge&logo=markdown&logoColor=#FF6C37>
 [typescript]: <https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3077C5> "TypeScript"
+[java]: <https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk> "Java"
 [comment]: # (client-side-badges)
 
 [comment]: # (server-side-badges)
@@ -76,7 +95,6 @@ Where do you want to go?
 [postman]: <https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman&logoColor=#FF6C37> "Postman"
 [mongodb-compass]: <https://img.shields.io/badge/MongoDB_Compass-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B> "MongoDB Compass"
 [comment]: # (tools-badges)
-
 [comment]: # (badge-references)
 
 [comment]: # (links)
