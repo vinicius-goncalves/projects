@@ -33,8 +33,8 @@ Where do you want to go?
   
   ![][java]
 
-  | 📂 name           | 🔗 website | 🚀 repository |
-  | :---------        | :---------- | :---------- |
+  | 📂 name           | 🔗 website  | 🚀 repository |
+  | :---------        | :----------: | :-----------: |
   | vg-sounds | **-** | [github.com/vinicius-goncalves/vg-sound][repo__vg-sounds]
   
 </div>
