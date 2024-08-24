@@ -1,7 +1,7 @@
 # About
 In this repository, there will be a lot of things useful about my project - as projects grouped by technologies, links about me and more.
 
-## 🔢 Sections
+## Sections
 Where do you want to go?
 
 - [Projects](#projects)
