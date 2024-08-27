@@ -38,7 +38,7 @@ Where do you want to go? ✨
 
   |     📂 name      | 🔗 website | 🚀 repository |
   | ---------------- | ----------- | ------------   |
-  | pokedex98                   | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
+  | ts__pokedex98               | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/ts__pokedex98][repo__pokedex98]
   | ts__vintage-shopping        | **-** | [github.com/vinicius-goncalves/ts__vintage-shopping][repo__ts__vintage-shopping]
   | ts__vanilla-modals          | **-** | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
   
