@@ -38,7 +38,9 @@ Where do you want to go? ✨
 
   |     📂 name      | 🔗 website | 🚀 repository |
   | ---------------- | ----------- | ------------   |
-  | pokedex98        | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
+  | pokedex98                   | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
+  | ts__vintage-shopping        | **-** | [github.com/vinicius-goncalves/ts__vintage-shopping][repo__ts__vintage-shopping]
+  | ts__vanilla-modals          | **-** | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
   
 </div>
 
@@ -52,7 +54,7 @@ Where do you want to go? ✨
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
   | quiz-creator        | **-**                                                      | [github.com/vinicius-goncalves/quiz-creator][repo__quiz-creator]
-  | frame-seeker        | **-**                                                      | [github.com/vinicius-goncalves/frame-seeker][repo__frame-seeker]
+  | frame-seeker        | **-**                                                      | [github.com/vinicius-goncalves/ts__vanilla-modals][repo__ts__vanilla-modals]
   
 </div>
 
@@ -90,6 +92,12 @@ Where do you want to go? ✨
 
   [repo__pokedex98]: <https://github.com/vinicius-goncalves/pokedex98> "repo__pokedex98"
   [website__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website__pokedex98"
+  
+  [repo__ts__vintage-shopping]: <https://github.com/vinicius-goncalves/ts__vintage-shopping> "repo__ts__vintage-shopping"
+  [website__ts__vintage-shopping]: <> "website__ts__vintage-shopping"
+  
+  [repo__ts__vanilla-modals]: <https://github.com/vinicius-goncalves/ts__vanilla-modals> "repo__ts__vanilla-modals"
+  [website__ts__vanilla-modals]: <> "website__ts__vanilla-modals"
   
 [comment]: # (typescript-projects)
 [comment]: # (javascript-projects)
