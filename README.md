@@ -6,6 +6,7 @@ Where do you want to go?
 
 - [Projects](#projects)
   - [React Projects](#react-projects)
+  - [Typescript Projects](#typescript-projects)
   - [Java Projects](#java-projects)
 
 
@@ -19,11 +20,23 @@ Where do you want to go?
   
   ![][react]
 
-  | 📂 name           | 🔗 website | 🚀 repository |
-  | :---------        | :---------- | :---------- |
-  | react__weather-app | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
-  | react__form-validation | **-** | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
-  | react__auth-states | **-** | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
+  |       📂 name         | 🔗 website |  🚀 repository |
+  | :--------------------- | :---------- | :-------------- |
+  | react__weather-app     | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
+  | react__form-validation | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
+  | react__auth-states     | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
+  
+</div>
+
+***
+
+<div id="typescript-projects">
+  
+  ![][typescript]
+
+  |        📂 name         | 🔗 website | 🚀 repository |
+  | :--------------------- | :---------- | :------------ |
+  | pokedex98              | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
   
 </div>
 
@@ -54,7 +67,12 @@ Where do you want to go?
   [website__auth-states]: <> "website__auth-states"
   
 [comment]: # (react-projects)
+[comment]: # (typescript-projects)
+
+  [repo__pokedex98]: <https://github.com/vinicius-goncalves/pokedex98> "repo_pokedex98"
+  [website__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website_pokedex98"
   
+[comment]: # (typescript-projects)
 [comment]: # (java-projects)
 
   [repo__vg-sounds]: <https://github.com/vinicius-goncalves/vg-sounds> "repo__vg-sounds"
