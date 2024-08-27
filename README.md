@@ -66,7 +66,7 @@ Where do you want to go? ✨
 
   |      📂 name        | 🔗 website | 🚀 repository |
   | ------------------- | ----------- | -------------- |
-  | go__basic_server    | **-**       | [github.com/vinicius-goncalves/go__basic_server][repo__go__basic-server]
+  | go__basic_server    | **-**       | [github.com/vinicius-goncalves/go__basic-server][repo__go__basic-server]
   
 </div>
 
