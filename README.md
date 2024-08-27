@@ -7,6 +7,7 @@ Where do you want to go?
 - [Projects](#projects)
   - [React Projects](#react-projects)
   - [Typescript Projects](#typescript-projects)
+  - [Javascript Projects](#javascript-projects)
   - [Java Projects](#java-projects)
 
 
@@ -42,6 +43,18 @@ Where do you want to go?
 
 ***
 
+<div id="javascript-projects">
+  
+  ![][javascript]
+
+  |        📂 name         | 🔗 website | 🚀 repository |
+  | :--------------------- | :---------- | :------------ |
+  | folders-structures     | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
+  
+</div>
+
+***
+
 <div id="java-projects">
   
   ![][java]
@@ -69,10 +82,16 @@ Where do you want to go?
 [comment]: # (react-projects)
 [comment]: # (typescript-projects)
 
-  [repo__pokedex98]: <https://github.com/vinicius-goncalves/pokedex98> "repo_pokedex98"
-  [website__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website_pokedex98"
+  [repo__pokedex98]: <https://github.com/vinicius-goncalves/pokedex98> "repo__pokedex98"
+  [website__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website__pokedex98"
   
 [comment]: # (typescript-projects)
+[comment]: # (javascript-projects)
+
+  [repo__folders-structure]: <https://github.com/vinicius-goncalves/folders-structure> "repo__folders-structure"
+  [website__folders-structure]: <https://jc1d8.vinicius-goncalves.com> "website__folders-structure"
+  
+[comment]: # (javascript-projects)
 [comment]: # (java-projects)
 
   [repo__vg-sounds]: <https://github.com/vinicius-goncalves/vg-sounds> "repo__vg-sounds"
