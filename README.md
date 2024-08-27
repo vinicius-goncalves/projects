@@ -38,9 +38,9 @@ Where do you want to go? ✨
 
   |     📂 name      | 🔗 website | 🚀 repository |
   | ---------------- | ----------- | ------------   |
-  | ts__pokedex98               | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/ts__pokedex98][repo__pokedex98]
+  | ts__pokedex98               | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/ts__pokedex98][repo__ts__pokedex98]
   | ts__vintage-shopping        | **-** | [github.com/vinicius-goncalves/ts__vintage-shopping][repo__ts__vintage-shopping]
-  | ts__vanilla-modals          | **-** | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
+  | ts__vanilla-modals          | **-** | [github.com/vinicius-goncalves/ts__vanilla-modals][repo__ts__vanilla-modals]
   
 </div>
 
@@ -90,8 +90,8 @@ Where do you want to go? ✨
 [comment]: # (react-projects)
 [comment]: # (typescript-projects)
 
-  [repo__pokedex98]: <https://github.com/vinicius-goncalves/pokedex98> "repo__pokedex98"
-  [website__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website__pokedex98"
+  [repo__ts__pokedex98]: <https://github.com/vinicius-goncalves/ts__pokedex98> "repo__ts__pokedex98"
+  [website__ts__pokedex98]: <https://pokedex98.vinicius-goncalves.com> "website__ts__pokedex98"
   
   [repo__ts__vintage-shopping]: <https://github.com/vinicius-goncalves/ts__vintage-shopping> "repo__ts__vintage-shopping"
   [website__ts__vintage-shopping]: <> "website__ts__vintage-shopping"
