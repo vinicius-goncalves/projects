@@ -54,7 +54,7 @@ Where do you want to go? ✨
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
   | quiz-creator        | **-**                                                      | [github.com/vinicius-goncalves/quiz-creator][repo__quiz-creator]
-  | frame-seeker        | **-**                                                      | [github.com/vinicius-goncalves/ts__vanilla-modals][repo__ts__vanilla-modals]
+  | js__frame-seeker        | **-**                                                   | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
 
@@ -108,8 +108,8 @@ Where do you want to go? ✨
   [repo__quiz-creator]: <https://github.com/vinicius-goncalves/quiz-creator> "repo__quiz-creator"
   [website__quiz-creator]: <> "website__quiz-creator"
   
-  [repo__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__frame-seeker"
-  [website__frame-seeker]: <> "website__frame-seeker"
+  [repo__js__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__js__frame-seeker"
+  [website__js__frame-seeker]: <> "website__js__frame-seeker"
   
 [comment]: # (javascript-projects)
 [comment]: # (java-projects)
