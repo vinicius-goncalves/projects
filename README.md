@@ -54,7 +54,7 @@ Where do you want to go? ✨
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
   | quiz-creator        | **-**                                                      | [github.com/vinicius-goncalves/quiz-creator][repo__quiz-creator]
-  | js__frame-seeker        | **-**                                                   | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
+  | js__frame-seeker    | **-**                                                      | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
 
@@ -66,7 +66,7 @@ Where do you want to go? ✨
 
   |      📂 name        | 🔗 website | 🚀 repository |
   | ------------------- | ----------- | -------------- |
-  | go__basic_server    | **-**       | [github.com/vinicius-goncalves/go__basic_server][repo__go__basic_server]
+  | go__basic_server    | **-**       | [github.com/vinicius-goncalves/go__basic_server][repo__go__basic-server]
   
 </div>
 
@@ -126,7 +126,7 @@ Where do you want to go? ✨
 [comment]: # (javascript-projects)
 [comment]: # (go-projects)
 
-  [repo__go__basic_server]: <https://github.com/vinicius-goncalves/go__basic_server> "repo__go__basic_server"
+  [repo__go__basic_server]: <https://github.com/vinicius-goncalves/go__basic-server> "repo__go__basic-server"
   
 [comment]: # (go-projects)
 [comment]: # (java-projects)
