@@ -50,11 +50,23 @@ Where do you want to go? ✨
   
   ![][javascript]
 
-  |        📂 name      | 🔗 website | 🚀 repository |
+  |      📂 name        | 🔗 website | 🚀 repository |
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
   | quiz-creator        | **-**                                                      | [github.com/vinicius-goncalves/quiz-creator][repo__quiz-creator]
   | js__frame-seeker        | **-**                                                   | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
+  
+</div>
+
+***
+
+<div id="javascript-projects">
+  
+  ![][go]
+
+  |      📂 name        | 🔗 website | 🚀 repository |
+  | ------------------- | ----------- | -------------- |
+  | go__basic_server    | **-**       | [github.com/vinicius-goncalves/go__basic_server][repo__go__basic_server]
   
 </div>
 
@@ -112,6 +124,11 @@ Where do you want to go? ✨
   [website__js__frame-seeker]: <> "website__js__frame-seeker"
   
 [comment]: # (javascript-projects)
+[comment]: # (go-projects)
+
+  [repo__go__basic_server]: <https://github.com/vinicius-goncalves/go__basic_server> "repo__go__basic_server"
+  
+[comment]: # (go-projects)
 [comment]: # (java-projects)
 
   [repo__vg-sounds]: <https://github.com/vinicius-goncalves/vg-sounds> "repo__vg-sounds"
