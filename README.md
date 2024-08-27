@@ -126,7 +126,7 @@ Where do you want to go? ✨
 [comment]: # (javascript-projects)
 [comment]: # (go-projects)
 
-  [repo__go__basic_server]: <https://github.com/vinicius-goncalves/go__basic-server> "repo__go__basic-server"
+  [repo__go__basic-server]: <https://github.com/vinicius-goncalves/go__basic-server> "repo__go__basic-server"
   
 [comment]: # (go-projects)
 [comment]: # (java-projects)
