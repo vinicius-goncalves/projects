@@ -4,7 +4,7 @@ In this repository, there will be a lot of things useful about my project - as p
 ## Sections
 Where do you want to go? ✨
 
-- ### [Projects](#projects)
+#### Projects
   - [React Projects](#react-projects)
   - [Typescript Projects](#typescript-projects)
   - [Javascript Projects](#javascript-projects)
@@ -21,12 +21,12 @@ Where do you want to go? ✨
   
   ![][react]
 
-  |       📂 name         | 🔗 website |  🚀 repository |
-  | :--------------------- | :---------- | :-------------- |
-  | react__weather-app     | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
-  | react__form-validation | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
-  | react__auth-states     | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
-  | react__users-router    | **-**                                                  | [github.com/vinicius-goncalves/react__users-router][repo__react__users-router]
+  |       📂 name          | 🔗 website   |  🚀 repository |
+  | ---------------------   | ----------   | -------------- |
+  | react__weather-app      | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
+  | react__form-validation  | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
+  | react__auth-states      | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
+  | react__users-router     | **-**                                                  | [github.com/vinicius-goncalves/react__users-router][repo__react__users-router]
   
 </div>
 
@@ -36,9 +36,9 @@ Where do you want to go? ✨
   
   ![][typescript]
 
-  |        📂 name         | 🔗 website | 🚀 repository |
-  | :--------------------- | :---------- | :------------ |
-  | pokedex98              | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
+  |     📂 name      | 🔗 website | 🚀 repository |
+  | ---------------- | ----------- | ------------   |
+  | pokedex98        | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/pokedex98][repo__pokedex98]
   
 </div>
 
@@ -48,9 +48,9 @@ Where do you want to go? ✨
   
   ![][javascript]
 
-  |        📂 name         | 🔗 website | 🚀 repository |
-  | :--------------------- | :---------- | :------------ |
-  | folders-structures     | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
+  |        📂 name      | 🔗 website | 🚀 repository |
+  | ------------------- | ----------- | -------------- |
+  | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
   
 </div>
 
@@ -60,8 +60,8 @@ Where do you want to go? ✨
   
   ![][java]
 
-  | 📂 name           | 🔗 website  | 🚀 repository |
-  | :---------        | :----------: | :-----------: |
+  |      📂 name      | 🔗 website  | 🚀 repository |
+  | ----------------- | ------------ | -------------- |
   | vg-sounds | **-** | [github.com/vinicius-goncalves/vg-sound][repo__vg-sounds]
   
 </div>
