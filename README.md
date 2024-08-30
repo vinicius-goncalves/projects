@@ -21,12 +21,12 @@ Where do you want to go?
   
   ![][react]
 
-  |       📂 name          | 🔗 website   |  🚀 repository |
-  | ---------------------   | ----------   | -------------- |
-  | react__weather-app      | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
-  | react__form-validation  | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
-  | react__auth-states      | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
-  | react__users-router     | **-**                                                  | [github.com/vinicius-goncalves/react__users-router][repo__react__users-router]
+  |            📂 name         | 🔗 website   |  🚀 repository |
+  | -------------------------- | ----------   | -------------- |
+  | react__weather-app ✨      | [weather.vinicius-goncalves.com][website__weather-app] | [github.com/vinicius-goncalves/react__weather-app][repo__react__weather-app]
+  | react__form-validation     | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
+  | react__auth-states         | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
+  | react__users-router        | **-**                                                  | [github.com/vinicius-goncalves/react__users-router][repo__react__users-router]
   
 </div>
 
