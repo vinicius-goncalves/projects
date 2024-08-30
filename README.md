@@ -118,7 +118,7 @@ Where do you want to go? ✨
   [website__folders-structure]: <https://jc1d8.vinicius-goncalves.com> "website__folders-structure"
   
   [repo__js__quiz-creator]: <https://github.com/vinicius-goncalves/js__quiz-creator> "repo__js__quiz-creator"
-  [website__js__quiz-creator]: <https://github.com/vinicius-goncalves/js__quiz-creator> "website__js__quiz-creator"
+  [website__js__quiz-creator]: <https://wxf12a.vinicius-goncalves.com> "website__js__quiz-creator"
   
   [repo__js__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__js__frame-seeker"
   [website__js__frame-seeker]: <> "website__js__frame-seeker"
