@@ -53,14 +53,14 @@ Where do you want to go? ✨
   |      📂 name        | 🔗 website | 🚀 repository |
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
-  | quiz-creator        | **-**                                                      | [github.com/vinicius-goncalves/quiz-creator][repo__quiz-creator]
+  | js__quiz-creator        | **-**                                                  | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
   | js__frame-seeker    | **-**                                                      | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
 
 ***
 
-<div id="javascript-projects">
+<div id="go-projects">
   
   ![][go]
 
@@ -117,8 +117,8 @@ Where do you want to go? ✨
   [repo__folders-structure]: <https://github.com/vinicius-goncalves/folders-structure> "repo__folders-structure"
   [website__folders-structure]: <https://jc1d8.vinicius-goncalves.com> "website__folders-structure"
   
-  [repo__quiz-creator]: <https://github.com/vinicius-goncalves/quiz-creator> "repo__quiz-creator"
-  [website__quiz-creator]: <> "website__quiz-creator"
+  [repo__js__quiz-creator]: <https://github.com/vinicius-goncalves/js__quiz-creator> "repo__js__quiz-creator"
+  [website__js__quiz-creator]: <https://github.com/vinicius-goncalves/js__quiz-creator> "website__js__quiz-creator"
   
   [repo__js__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__js__frame-seeker"
   [website__js__frame-seeker]: <> "website__js__frame-seeker"
