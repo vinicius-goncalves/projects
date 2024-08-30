@@ -53,7 +53,7 @@ Where do you want to go? ✨
   |      📂 name        | 🔗 website | 🚀 repository |
   | ------------------- | ----------- | -------------- |
   | folders-structures  | [jc1d8.vinicius-goncalves.com][website__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__folders-structure]
-  | js__quiz-creator        | **-**                                                  | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
+  | js__quiz-creator    | [wxf12a.vinicius-goncalves.com][website__js__quiz-creator] | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
   | js__frame-seeker    | **-**                                                      | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
