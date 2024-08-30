@@ -1,8 +1,8 @@
 # About
-In this repository, there will be a lot of things useful about my project - as projects grouped by technologies, links about me and more.
+In this repository, there will be a lot of things useful about my project - as projects grouped by technologies, links about me and more. Projects with [✨] are the ones I liked creating the most, and I consider them the best ones.
 
 ## Sections
-Where do you want to go? ✨
+Where do you want to go?
 
 #### Projects
   - [React Projects](#react-projects)
@@ -38,7 +38,7 @@ Where do you want to go? ✨
 
   |     📂 name      | 🔗 website | 🚀 repository |
   | ---------------- | ----------- | ------------   |
-  | ts__pokedex98               | [pokedex98.vinicius-goncalves.com][website__pokedex98] | [github.com/vinicius-goncalves/ts__pokedex98][repo__ts__pokedex98]
+  | ts__pokedex98 ✨            | [pokedex98.vinicius-goncalves.com][website__ts__pokedex98] | [github.com/vinicius-goncalves/ts__pokedex98][repo__ts__pokedex98]
   | ts__vintage-shopping        | **-** | [github.com/vinicius-goncalves/ts__vintage-shopping][repo__ts__vintage-shopping]
   | ts__vanilla-modals          | **-** | [github.com/vinicius-goncalves/ts__vanilla-modals][repo__ts__vanilla-modals]
   
@@ -50,11 +50,11 @@ Where do you want to go? ✨
   
   ![][javascript]
 
-  |        📂 name        | 🔗 website | 🚀 repository |
-  | ---------------------- | ----------- | -------------- |
-  | js__folders-structures | [jc1d8.vinicius-goncalves.com][website__js__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__js__folders-structure]
-  | js__quiz-creator       | [wxf12a.vinicius-goncalves.com][website__js__quiz-creator]     | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
-  | js__frame-seeker       | **-**                                                          | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
+  |        📂 name             | 🔗 website | 🚀 repository |
+  | ----------------------     | ----------- | -------------- |
+  | js__folders-structures ✨ | [jc1d8.vinicius-goncalves.com][website__js__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__js__folders-structure]
+  | js__quiz-creator           | [wxf12a.vinicius-goncalves.com][website__js__quiz-creator]     | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
+  | js__frame-seeker           | **-**                                                          | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
 
