@@ -27,6 +27,7 @@ Where do you want to go?
   | react__form-validation     | **-**                                                  | [github.com/vinicius-goncalves/react__form-validation][repo__react__form-validation]
   | react__auth-states         | **-**                                                  | [github.com/vinicius-goncalves/react__auth-states][repo__react__auth-states]
   | react__users-router        | **-**                                                  | [github.com/vinicius-goncalves/react__users-router][repo__react__users-router]
+  | react__frame-seeker        | **-**                                                  | [github.com/vinicius-goncalves/react__frame-seeker][repo__react__frame-seeker]
   
 </div>
 
@@ -54,7 +55,6 @@ Where do you want to go?
   | ----------------------     | ----------- | -------------- |
   | js__folders-structures ✨ | [jc1d8.vinicius-goncalves.com][website__js__folders-structure] | [github.com/vinicius-goncalves/folders-structure][repo__js__folders-structure]
   | js__quiz-creator           | [wxf12a.vinicius-goncalves.com][website__js__quiz-creator]     | [github.com/vinicius-goncalves/js__quiz-creator][repo__js__quiz-creator]
-  | js__frame-seeker           | **-**                                                          | [github.com/vinicius-goncalves/js__frame-seeker][repo__js__frame-seeker]
   
 </div>
 
@@ -98,6 +98,9 @@ Where do you want to go?
   
   [repo__react__users-router]: <https://github.com/vinicius-goncalves/react__users-router> "repo__react__users-router"
   [website__users-router]: <> "website__users-router"
+
+  [repo__react__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__react__frame-seeker"
+  [website__react__frame-seeker]: <> "website__react__frame-seeker"
   
 [comment]: # (react-projects)
 [comment]: # (typescript-projects)
@@ -119,9 +122,6 @@ Where do you want to go?
   
   [repo__js__quiz-creator]: <https://github.com/vinicius-goncalves/js__quiz-creator> "repo__js__quiz-creator"
   [website__js__quiz-creator]: <https://wxf12a.vinicius-goncalves.com> "website__js__quiz-creator"
-  
-  [repo__js__frame-seeker]: <https://github.com/vinicius-goncalves/frame-seeker> "repo__js__frame-seeker"
-  [website__js__frame-seeker]: <> "website__js__frame-seeker"
   
 [comment]: # (javascript-projects)
 [comment]: # (go-projects)
