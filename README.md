@@ -5,7 +5,7 @@ In this repository, there will be a lot of things useful about my project - as p
 Where do you want to go?
 
 #### Projects
-  - [Angular Projects](#react-projects)
+  - [Angular Projects](#angular-projects)
   - [React Projects](#react-projects)
   - [Typescript Projects](#typescript-projects)
   - [Javascript Projects](#javascript-projects)
