@@ -5,6 +5,7 @@ In this repository, there will be a lot of things useful about my project - as p
 Where do you want to go?
 
 #### Projects
+  - [Angular Projects](#react-projects)
   - [React Projects](#react-projects)
   - [Typescript Projects](#typescript-projects)
   - [Javascript Projects](#javascript-projects)
@@ -14,6 +15,17 @@ Where do you want to go?
 <div id="projects">
 
 ## Projects
+
+***
+<div id="angular-projects">
+  
+  ![][angular]
+
+  |      📂 name      | 🔗 website | 🚀 repository |
+  | ----------------- | ----------- | -------------- |
+  | public-polls      | [polls.vinicius-goncalves.com][website__angular__public-polls] | [github.com/vinicius-goncalves/angular__public-polls][repo__angular__public-polls]
+  
+</div>
 
 ***
 
@@ -85,6 +97,12 @@ Where do you want to go?
 </div>
 
 [comment]: # (reference-paths)
+[comment]: # (angular-projects)
+  
+  [repo__angular__public-polls]: <https://github.com/vinicius-goncalves/angular__public-polls> "repo__angular__public-polls"
+  [website__angular__public-polls]: <https://polls.vinicius-goncalves.com> "website__angular__public-polls"
+  
+[comment]: # (angular-projects)
 [comment]: # (react-projects)
   
   [repo__react__weather-app]: <https://github.com/vinicius-goncalves/react__weather-app> "repo__react__weather-app"
@@ -164,6 +182,7 @@ Where do you want to go?
 [react]: <https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React> "React"
 [tailwind]: <https://img.shields.io/badge/Tailwind-323330?style=for-the-badge&logo=TailwindCSS> "Tailwind"
 [redux]: <https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=764ABC> "Redux"
+[angular]: <https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=764ABC> "Angular"
 [comment]: # (libraries-badges)
 
 [comment]: # (tools-badges)
